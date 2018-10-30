@@ -4,14 +4,16 @@
 
 ---
 
-## Welcome to Plone Conf 2018!
-### Welcome to Tokyo!
+# Welcome to Plone Conf 2018!
+## Welcome to Tokyo!
 
 +++
 
-### Announcement for participants
+# Question
 
-# Do you know that there are Additional tracks?
++++
+
+# Do you know that there are @color[#c98452](Additional tracks)?
 
 +++
 
@@ -19,9 +21,11 @@
 
 - At Meeting Room C (6F)
 - Schedule
-  - **7 November: Python Web Day**
+  - @color[#c98452](7 November: Python Web Day)
   - 8 November: DB Day
   - 9 November: Frontend Day
+
++++?image=about_additional_track/assets/python_web_day_look_here.png&size=contain
 
 ---
 
@@ -36,10 +40,17 @@
 
 +++
 
-### Aim of Python Web Day
+## Aim of Python Web Day
 
-- Know the activities of Pythonista in Japan
-- Interact with participants from abroad and participants from Japan
+# Know & Interact
+
++++
+
+## @color[#c98452](Know) the activities of Pythonista in Japan
+
++++
+
+## @color[#c98452](Interact) with participants from abroad and participants from Japan
 
 ---
 
@@ -47,45 +58,27 @@
 
 +++
 
-### Talk lineup
+### Talk lineup (1/2)
 
 In Python Web Day, there are talks about...
 
-- Django
-- Serverless Framework
+- RESTful API
+  - Django
+  - Serverless Framework
+- GeoDjango
+
++++
+
+### Talk lineup (2/2)
+
+In Python Web Day, there are talks about...
+
 - Sphinx
 - Router
 - Machine Learning Application
 
 +++
 
-### Talk Schedule (AM)
-
-At Meeting Room C (6F)
-
-- 11:40 "Build a RESTful API with Serverless Framework" (20min talk)
-- 12:30 "Building a REST API with Django and Django REST Framework" (20min talk)
-
-+++
-
-### Talk Schedule (PM 1/2)
-
-At Meeting Room C (6F)
-
-- 14:10 "Powerful geographic web framework GeoDjango"
-- 14:30 "Sphinx customization for OGP support."
-
-+++
-
-### Talk Schedule (PM 2/2)
-
-At Meeting Room C (6F)
-
-- 15:00 "How to make the fastest Router in Python" (20min talk)
-- 16:10 "Micro Service Architecture with Machine Learning Application" (20min talk)
-
-+++
-
-### Thank you for your attention!
-### We are waiting at Meeting Room C (6F)
+## Thank you for your attention!
+## We are waiting at <span style="color: #c98452">Meeting Room C (6F)</span>
 [Talk List Link](https://docs.google.com/spreadsheets/d/e/2PACX-1vTFKayI7BnpYsNnBvbwr38CA-9D_jZwlOFE_716k6MGDoRTRbB5kTVg8HSKlw22hPX1_F1qH8_y6eE5/pubhtml)
