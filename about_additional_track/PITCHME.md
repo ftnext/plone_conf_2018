@@ -46,11 +46,11 @@
 
 +++
 
-## [#c98452](Know) the activities of Pythonista in Japan
+## @color[#c98452](Know) the activities of Pythonista in Japan
 
 +++
 
-## [#c98452](Interact) with participants from abroad and participants from Japan
+## @color[#c98452](Interact) with participants from abroad and participants from Japan
 
 ---
 
