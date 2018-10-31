@@ -2,10 +2,20 @@
 ### Plone Conf 2018 Additional track
 #### 7 November 2018
 
+Note:
+
+Hello, everyone!
+Let me introduce about today's additional track.
+
 ---
 
 # Welcome to Plone Conf 2018!
 ## Welcome to Tokyo!
+
+Note:
+
+Welcome to Plone Conference 2018!
+And, welcome to Tokyo!
 
 +++
 
