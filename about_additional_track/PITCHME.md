@@ -125,7 +125,7 @@ Finally, I introduce the contents of Python Web Day.
 In Python Web Day, there are talks about...
 
 - RESTful API
-  - Django
+  - Django & Django REST Framework
   - Serverless Framework
 - GeoDjango
 
