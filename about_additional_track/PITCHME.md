@@ -33,32 +33,61 @@ Note:
 
 Do you know that there are Additional tracks?
 
-+++
+---
 
-### Plone Conf 2018 Additional track
+### Plone Conf 2018 Additional tracks
 
 - At Meeting Room C (6F)
-- Schedule
-  - @color[#c98452](7 November: Python Web Day)
-  - 8 November: DB Day
-  - 9 November: Frontend Day
+- Participants from Japan try to talk in English
 
 Note:
 
 Additional tracks are held in conference room C on the 6th floor.
+Speakers are participants from Japan and try to talk in English.
+
++++
+
+## Aim of Additional tracks
+
+# Know & Interact
+
+Note:
+
+I share the aim of Additional tracks.
+It's two things, to know and to interact.
+
++++
+
+## @color[#c98452](Know) the activities of Pythonista in Japan
+
+Note:
+
+We would like participants from abroad to know the activities of Pythonista in Japan.
+
++++
+
+## @color[#c98452](Interact) with participants from abroad and participants from Japan
+
+Note:
+
+And after knowing,
+we hope that participants from abroad and participants from Japan interact with each other.
+
++++
+
+### Schedule of Additional tracks
+
+- @color[#c98452](7 November: Python Web Day)
+- 8 November: DB Day
+- 9 November: Frontend Day
+
+Note:
+
 Additional tracks are different every day.
 
 Today, Python Web Day is held.
 Tomorrow is Database Day,
 the day after tomorrow is Frontend Day.
-
-+++?image=about_additional_track/assets/python_web_day_look_here.png&size=contain
-
-Note:
-
-**動作：パンフレットを広げる**
-
-In the pamphlet, please look here.
 
 ---
 
@@ -72,51 +101,13 @@ I talk about today's "Python Web Day”.
 
 ### Python Web Day
 
-- 20 minutes talks about Web
-- Participants from Japan try to talk in English
+- 6 talks about Web
+- 20 minute talk time
 
 Note:
 
-Each speaker has a 20 minute talk about the web.
-Speakers are participants from Japan and try to talk in English.
-
-+++
-
-## Aim of Python Web Day
-
-# Know & Interact
-
-Note:
-
-I share the aim of Python Web Day.
-It's two things, to know and to interact
-
-+++
-
-## @color[#c98452](Know) the activities of Pythonista in Japan
-
-Note:
-
-We would like participants from abroad to know the activities of Pythonista in Japan.
-Actually, there is no talks about Plone in Python Web Day.
-But, you will receive stimulation by listening to talks about the Web.
-
-+++
-
-## @color[#c98452](Interact) with participants from abroad and participants from Japan
-
-Note:
-
-And after knowing,
-we hope that participants from abroad and participants from Japan interact with each other.
-
----
-
-# Talk List of Python Web Day
-
-Note:
-
-Finally, I introduce the contents of Python Web Day.
+There are 6 talks about Web.
+Each talk time is 20 minutes.
 
 +++
 
@@ -149,6 +140,14 @@ In Python Web Day, there are talks about...
 Note:
 
 There are also other talks about Sphinx, about Router, and about machine learning application.
+
++++?image=about_additional_track/assets/python_web_day_look_here.png&size=contain
+
+Note:
+
+**動作：パンフレットを広げる**
+
+In the pamphlet, please look here.
 
 +++
 
