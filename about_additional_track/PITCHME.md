@@ -58,11 +58,11 @@ It's two things, to know and to interact.
 
 +++
 
-## @color[#c98452](Know) the activities of Pythonista in Japan
+## @color[#c98452](Know) the activities of engineers in Japan
 
 Note:
 
-We would like participants from abroad to know the activities of Pythonista in Japan.
+We would like participants from abroad to know the activities of engineers in Japan.
 
 +++
 
