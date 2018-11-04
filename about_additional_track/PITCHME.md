@@ -102,12 +102,13 @@ I talk about today's "Python Web Day”.
 ### Python Web Day
 
 - 6 talks about Web
-- 20 minute talk time
+- one 40-minute talk
+- five 20-minute talks
 
 Note:
 
 There are 6 talks about Web.
-Each talk time is 20 minutes.
+One is 40 minute talk and other five talks are 20 minute talks.
 
 +++
 
@@ -134,12 +135,13 @@ Speaking of Django, there is also a talk about GeoDjango.
 In Python Web Day, there are talks about...
 
 - Sphinx
-- Router
+- Router (@color[#c98452](40 minutes))
 - Machine Learning Application
 
 Note:
 
 There are also other talks about Sphinx, about Router, and about machine learning application.
+The talk about router is 40 minute talk.
 
 +++?image=about_additional_track/assets/python_web_day_look_here.png&size=contain
 
