@@ -2,6 +2,12 @@
 ### Plone Conf 2018 Additional track
 #### 7 November 2018
 
+Note:
+
+Hello, everyone!
+We are now starting opening talk of Python Web Day.
+I want to give you a overview of Python Web Day.
+
 ---
 
 ### Python Web Day
@@ -10,6 +16,13 @@
   - one 40-minute talk
   - five 20-minute talks
 - Participants from Japan try to talk in English
+
+Note:
+
+There are 6 talks about Web.
+One is 40 minute talk and other five talks are 20 minute talks.
+
+Speakers are participants from Japan and try to talk in English.
 
 +++
 
@@ -21,6 +34,12 @@ Time | Topic
 12:30 - 13:10 | RESTful API (Django)
 14:10 - 14:30 | GeoDjango
 
+Note:
+
+After this opening talk, we have a talk about Serverless and REST API.
+The next talk is about Django and REST API.
+After lunch, from 2:10 pm we have a talk about GeoDjango.
+
 +++
 
 ### Time Table (2/2)
@@ -31,11 +50,23 @@ Time | Topic
 15:00 - 15:40 | Router (@color[#c98452](40min) talk)
 16:10 - 16:50 | Machine Learning Application
 
+Note:
+
+Next to GeoDjango talk, we have a talk about Sphinx.
+Next, we have a talk about Router, this is the only 40 minute talk on Python Web Day.
+After the coffee break we have a talk about the machine learning application.
+
+I will briefly introduce each talk.
+
 ---
 
 ### 11:40 - 12:20
 # Build a RESTful API with Serverless Framework
 ## Masato Nakamura
+
+Note:
+
+From 11:40 to 12:20, there is a talk "Build a RESTful API with Serverless Framework" by Masato Nakamura.
 
 +++
 
@@ -48,11 +79,20 @@ Time | Topic
   - AWS
   - AWS Lambda
 
+Note:
+
+It is a 20 minute talk and target level is Intermediate.
+Talk keywords are REST API, AWS and AWS Lambda.
+
 ---
 
 ### 12:30 - 13:10
 ## Building a REST API with Django and Django REST Framework
 ## Hironori Sekine
+
+Note:
+
+From 12:30 to 1:10 pm, there is a talk "Building a REST API with Django and Django REST Framework" by Hironori Sekine.
 
 +++
 
@@ -63,11 +103,20 @@ Time | Topic
 - Keywords
   - (TBD)
 
+Note:
+
+It is a 20 minute talk and target level is Intermediate.
+Talk keywords are ...(TBD).
+
 ---
 
 ### 14:10 - 14:30
 # Powerful geographic web framework GeoDjango
 ## Mitsuki Sugiya
+
+Note:
+
+From 2:10 pm to 2:30 pm, there is a talk "Powerful geographic web framework GeoDjango" by Mitsuki Sugiya.
 
 +++
 
@@ -80,11 +129,20 @@ Time | Topic
   - Geographic data
   - Web framework
 
+Note:
+
+It is a 20 minute talk and target level is Intermediate.
+Talk keywords are Django, Geographic data and Web framework.
+
 ---
 
 ### 14:30 - 14:50
 # Sphinx customization for OGP support.
 ## Takayuki Shimizukawa
+
+Note:
+
+From 2:30 pm to 2:50 pm, there is a talk "Sphinx customization for OGP support" by Takayuki Shimizukawa.
 
 +++
 
@@ -93,14 +151,23 @@ Time | Topic
 - 20 minute talk
 - Intermediate
 - Keywords
-  - Sphinx Extention
+  - Sphinx Extension
   - Twitter Card
+
+Note:
+
+It is a 20 minute talk and target level is Intermediate.
+Talk keywords are Sphinx Extension and Twitter Card.
 
 ---
 
 ### 15:00 - 15:40
 # How to make the fastest Router in Python
 ## Makoto Kuwata
+
+Note:
+
+From three o'clock pm to 3:40 pm, there is a talk "How to make the fastest Router in Python" by Makoto Kuwata.
 
 +++
 
@@ -113,11 +180,20 @@ Time | Topic
   - framework
   - router
 
+Note:
+
+It is a **40 minute** talk and target level is Intermediate.
+Talk keywords are performance, framework and router.
+
 ---
 
 ### 16:10 - 16:50
 ## Micro Service Architecture with Machine Learning Application
 ## Masato Fujitake
+
+Note:
+
+From 4:10 pm to 4:50 pm, there is a talk "Micro Service Architecture with Machine Learning Application" by Masato Fujitake.
 
 +++
 
@@ -130,6 +206,11 @@ Time | Topic
   - gRPC
   - Object Detection
 
+Note:
+
+It is a 20 minute talk and target level is Intermediate.
+Talk keywords are REST API, gRPC and Object Detection.
+
 ---
 
 ### Aim of Python Web Day
@@ -137,7 +218,19 @@ Time | Topic
 - @color[#c98452](Know) the activities of engineers in Japan
 - @color[#c98452](Interact) with participants from abroad and participants from Japan
 
+Note:
+
+Finally remember the aim of Python Web Day: to know and to interact.
+We would like participants from abroad to know the activities of Pythonista in Japan.
+And after knowing, we hope that participants from abroad and participants from Japan interact with each other.
+
 +++
 
 ## Thank you for your attention.
 # Enjoy Python Web Day!
+
+Note:
+
+That's all.
+Thank you for your attention.
+Let's enjoy Python Web Day and Plone Conference!
