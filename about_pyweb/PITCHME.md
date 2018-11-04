@@ -51,7 +51,7 @@ Time | Topic
 ---
 
 ### 12:30 - 13:10
-# Building a REST API with Django and Django REST Framework
+## Building a REST API with Django and Django REST Framework
 ## Hironori Sekine
 
 +++
@@ -116,7 +116,7 @@ Time | Topic
 ---
 
 ### 16:10 - 16:50
-# Micro Service Architecture with Machine Learning Application
+## Micro Service Architecture with Machine Learning Application
 ## Masato Fujitake
 
 +++
