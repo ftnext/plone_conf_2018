@@ -28,7 +28,7 @@ Time | Topic
 Time | Topic
 ------------ | -------------
 14:30 - 14:50 | Sphinx
-15:00 - 15:40 | Router
+15:00 - 15:40 | Router (@color[#c98452](40min) talk)
 16:10 - 16:50 | Machine Learning Application
 
 ---
