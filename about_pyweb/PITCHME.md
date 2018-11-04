@@ -7,7 +7,8 @@
 ### Python Web Day
 
 - @color[#c98452](6 talks) about Web
-- @color[#c98452](20 minutes) talk time
+  - one 40-minute talk
+  - five 20-minute talks
 - Participants from Japan try to talk in English
 
 +++
@@ -86,6 +87,8 @@ Intermediate
 
 +++
 
+### How to make the fastest Router in Python
+
 [Nerd Factor]
 
 ---
@@ -104,7 +107,7 @@ Intermediate
 
 ### Aim of Python Web Day
 
-- @color[#c98452](Know) the activities of Pythonista in Japan
+- @color[#c98452](Know) the activities of engineers in Japan
 - @color[#c98452](Interact) with participants from abroad and participants from Japan
 
 +++
