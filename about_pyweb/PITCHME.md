@@ -41,7 +41,12 @@ Time | Topic
 
 ### Build a RESTful API with Serverless Framework
 
-Intermediate
+- 20 minute talk
+- Intermediate
+- Keywords
+  - REST API
+  - AWS
+  - AWS Lambda
 
 ---
 
@@ -53,7 +58,10 @@ Intermediate
 
 ### Building a REST API with Django and Django REST Framework
 
-Intermediate
+- 20 minute talk
+- Intermediate
+- Keywords
+  - (TBD)
 
 ---
 
@@ -65,7 +73,12 @@ Intermediate
 
 ### Powerful geographic web framework GeoDjango
 
-[Nerd Factor]
+- 20 minute talk
+- Intermediate
+- Keywords
+  - Django
+  - Geographic data
+  - Web framework
 
 ---
 
@@ -77,7 +90,11 @@ Intermediate
 
 ### Sphinx customization for OGP support.
 
-Intermediate
+- 20 minute talk
+- Intermediate
+- Keywords
+  - Sphinx Extention
+  - Twitter Card
 
 ---
 
@@ -89,7 +106,12 @@ Intermediate
 
 ### How to make the fastest Router in Python
 
-[Nerd Factor]
+- @color[#c98452](40 minute) talk
+- Intermediate
+- Keywords
+  - performance
+  - framework
+  - router
 
 ---
 
@@ -101,7 +123,12 @@ Intermediate
 
 ### Micro Service Architecture with Machine Learning Application
 
-[Nerd Factor]
+- 20 minute talk
+- Intermediate
+- Keywords
+  - REST API
+  - gRPC
+  - Object Detection
 
 ---
 
