@@ -15,12 +15,14 @@ I want to give you a overview of Python Web Day.
 - @color[#c98452](6 talks) about Web
   - one 40-minute talk
   - five 20-minute talks
+- Target level: @color[#c98452](Intermediate)
 - Participants from Japan try to talk in English
 
 Note:
 
 There are 6 talks about Web.
 One is 40 minute talk and other five talks are 20 minute talks.
+All talks in Python Web Day are for intermediate level.
 
 Speakers are participants from Japan and try to talk in English.
 
@@ -73,7 +75,6 @@ From 11:40 to 12:20, there is a talk "Build a RESTful API with Serverless Framew
 ### Build a RESTful API with Serverless Framework
 
 - 20 minute talk
-- Intermediate
 - Keywords
   - REST API
   - AWS
@@ -81,8 +82,9 @@ From 11:40 to 12:20, there is a talk "Build a RESTful API with Serverless Framew
 
 Note:
 
-It is a 20 minute talk and target level is Intermediate.
-Talk keywords are REST API, AWS and AWS Lambda.
+It is a 20 minute talk.
+He will talk about how to build REST API with Serverless Framework.
+Topics of AWS Lambda, a serverless service provided by AWS, will also appear.
 
 ---
 
@@ -99,7 +101,6 @@ From 12:30 to 1:10 pm, there is a talk "Building a REST API with Django and Djan
 ### Building a REST API with Django and Django REST Framework
 
 - 20 minute talk
-- Intermediate
 - Keywords
   - Django
   - REST API
@@ -107,8 +108,9 @@ From 12:30 to 1:10 pm, there is a talk "Building a REST API with Django and Djan
 
 Note:
 
-It is a 20 minute talk and target level is Intermediate.
-Talk keywords are Django, REST API and framework.
+It is a 20 minute talk.
+As you know, Django is a web application framework.
+He will talk about how to build REST API with Django.
 
 ---
 
@@ -125,7 +127,6 @@ From 2:10 pm to 2:30 pm, there is a talk "Powerful geographic web framework GeoD
 ### Powerful geographic web framework GeoDjango
 
 - 20 minute talk
-- Intermediate
 - Keywords
   - Django
   - Geographic data
@@ -133,8 +134,8 @@ From 2:10 pm to 2:30 pm, there is a talk "Powerful geographic web framework GeoD
 
 Note:
 
-It is a 20 minute talk and target level is Intermediate.
-Talk keywords are Django, Geographic data and Web framework.
+It is a 20 minute talk.
+She will talk about how to handle geographic data in Django.
 
 ---
 
@@ -151,15 +152,16 @@ From 2:30 pm to 2:50 pm, there is a talk "Sphinx customization for OGP support" 
 ### Sphinx customization for OGP support
 
 - 20 minute talk
-- Intermediate
 - Keywords
   - Sphinx Extension
   - Twitter Card
 
 Note:
 
-It is a 20 minute talk and target level is Intermediate.
-Talk keywords are Sphinx Extension and Twitter Card.
+It is a 20 minute talk.
+As you know, Sphinx is a documentation generator.
+He will talk about to Sphinx Extension for Open Graph Protocol(OGP).
+One example of OGP is a Twitter card.
 
 ---
 
@@ -176,7 +178,6 @@ From three o'clock pm to 3:40 pm, there is a talk "How to make the fastest Route
 ### How to make the fastest Router in Python
 
 - @color[#c98452](40 minute) talk
-- Intermediate
 - Keywords
   - performance
   - framework
@@ -184,8 +185,9 @@ From three o'clock pm to 3:40 pm, there is a talk "How to make the fastest Route
 
 Note:
 
-It is a **40 minute** talk and target level is Intermediate.
-Talk keywords are performance, framework and router.
+It is a **40 minute** talk.
+He says that router is one of the important features in a web application framework and it is also one of performance bottlenecks of a framework.
+He'll show us how to make router much faster than ever.
 
 ---
 
@@ -202,7 +204,6 @@ From 4:10 pm to 4:50 pm, there is a talk "Micro Service Architecture with Machin
 ### Micro Service Architecture with Machine Learning Application
 
 - 20 minute talk
-- Intermediate
 - Keywords
   - REST API
   - gRPC
@@ -210,8 +211,9 @@ From 4:10 pm to 4:50 pm, there is a talk "Micro Service Architecture with Machin
 
 Note:
 
-It is a 20 minute talk and target level is Intermediate.
-Talk keywords are REST API, gRPC and Object Detection.
+It is a 20 minute talk.
+He will talk about how to deploy Machine Learning Application as REST API.
+He will show us micro service approach with gRPC, a remote procedure call framework.
 
 ---
 
