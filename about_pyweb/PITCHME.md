@@ -137,7 +137,7 @@ Talk keywords are Django, Geographic data and Web framework.
 ---
 
 ### 14:30 - 14:50
-# Sphinx customization for OGP support.
+# Sphinx customization for OGP support
 ## Takayuki Shimizukawa
 
 Note:
@@ -146,7 +146,7 @@ From 2:30 pm to 2:50 pm, there is a talk "Sphinx customization for OGP support" 
 
 +++
 
-### Sphinx customization for OGP support.
+### Sphinx customization for OGP support
 
 - 20 minute talk
 - Intermediate
