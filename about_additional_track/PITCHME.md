@@ -155,7 +155,7 @@ In the pamphlet, please look here.
 
 ## Thank you for your attention!
 ## We are waiting at <span style="color: #c98452">Meeting Room C (6F)</span>
-[Talk List Link](https://docs.google.com/spreadsheets/d/e/2PACX-1vTFKayI7BnpYsNnBvbwr38CA-9D_jZwlOFE_716k6MGDoRTRbB5kTVg8HSKlw22hPX1_F1qH8_y6eE5/pubhtml)
+[Time Table Link](https://2018.ploneconf.org/schedule/talks-november-7)
 
 Note:
 
