@@ -101,7 +101,7 @@ I talk about today's "Python Web Day”.
 
 ### Python Web Day
 
-- 6 talks about Web
+- @color[#c98452](6 talks about Web)
 - one 40-minute talk
 - five 20-minute talks
 
