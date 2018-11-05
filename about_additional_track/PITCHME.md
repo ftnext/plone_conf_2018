@@ -114,33 +114,30 @@ One is 40 minute talk and other five talks are 20 minute talks.
 
 ### Talk lineup (1/2)
 
-In Python Web Day, there are talks about...
+In Python Web Day, there are 3 talks about @color[#c98452](REST API).
 
-- RESTful API
-  - Django & Django REST Framework
-  - Serverless Framework
-- GeoDjango
+- Django & Django REST Framework
+- Serverless Framework
+- Machine Learning Application (Micro Service)
 
 Note:
 
-We prepared talks on various topics.
-Two talks about RESTful API,
-one about Django and Django REST Framework, the other about Serverless Framework.
-Speaking of Django, there is also a talk about GeoDjango.
+In Python Web Day, half of the six talks are about REST API.
+one about Django, other about serverless framework, and the other about micro service with machine learning application.
 
 +++
 
 ### Talk lineup (2/2)
 
-In Python Web Day, there are talks about...
+Also, there are various talks.
 
+- GeoDjango
 - Sphinx
 - Router (@color[#c98452](40 minutes))
-- Machine Learning Application
 
 Note:
 
-There are also other talks about Sphinx, about Router, and about machine learning application.
+We also have other talks about GeoDjango, about Sphinx and about Router.
 The talk about router is 40 minute talk.
 
 +++?image=about_additional_track/assets/python_web_day_look_here.png&size=contain
