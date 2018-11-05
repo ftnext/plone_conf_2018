@@ -101,12 +101,14 @@ From 12:30 to 1:10 pm, there is a talk "Building a REST API with Django and Djan
 - 20 minute talk
 - Intermediate
 - Keywords
-  - (TBD)
+  - Django
+  - REST API
+  - framework
 
 Note:
 
 It is a 20 minute talk and target level is Intermediate.
-Talk keywords are ...(TBD).
+Talk keywords are Django, REST API and framework.
 
 ---
 
