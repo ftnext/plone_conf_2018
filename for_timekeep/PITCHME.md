@@ -6,6 +6,20 @@
 
 ## 50% of time has passed
 
+<canvas data-chart="pie">
+<!--
+{
+  "data": {
+    "labels": ["passed","remaining"],
+    "datasets": [{
+      "data": [50, 50],
+      "backgroundColor": ['#36a2eb']
+    }]
+  }
+}
+-->
+</canvas>
+
 +++
 
 # 5 minutes remaining
