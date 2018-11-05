@@ -83,7 +83,8 @@ From 11:40 to 12:20, there is a talk "Build a RESTful API with Serverless Framew
 Note:
 
 It is a 20 minute talk.
-Talk keywords are REST API, AWS and AWS Lambda.
+He will talk about how to build REST API with Serverless Framework.
+Topics of AWS Lambda, a serverless service provided by AWS, will also appear.
 
 ---
 
@@ -108,7 +109,8 @@ From 12:30 to 1:10 pm, there is a talk "Building a REST API with Django and Djan
 Note:
 
 It is a 20 minute talk.
-Talk keywords are Django, REST API and framework.
+As you know, Django is a web application framework.
+He will talk about how to build REST API with Django.
 
 ---
 
@@ -133,7 +135,7 @@ From 2:10 pm to 2:30 pm, there is a talk "Powerful geographic web framework GeoD
 Note:
 
 It is a 20 minute talk.
-Talk keywords are Django, Geographic data and Web framework.
+She will talk about how to handle geographic data in Django.
 
 ---
 
@@ -157,7 +159,9 @@ From 2:30 pm to 2:50 pm, there is a talk "Sphinx customization for OGP support" 
 Note:
 
 It is a 20 minute talk.
-Talk keywords are Sphinx Extension and Twitter Card.
+As you know, Sphinx is a documentation generator.
+He will talk about to Sphinx Extension for Open Graph Protocol(OGP).
+One example of OGP is a Twitter card.
 
 ---
 
@@ -182,7 +186,8 @@ From three o'clock pm to 3:40 pm, there is a talk "How to make the fastest Route
 Note:
 
 It is a **40 minute** talk.
-Talk keywords are performance, framework and router.
+He says that router is one of the important features in a web application framework and it is also one of performance bottlenecks of a framework.
+He'll show us how to make router much faster than ever.
 
 ---
 
@@ -207,7 +212,8 @@ From 4:10 pm to 4:50 pm, there is a talk "Micro Service Architecture with Machin
 Note:
 
 It is a 20 minute talk.
-Talk keywords are REST API, gRPC and Object Detection.
+He will talk about how to deploy Machine Learning Application as REST API.
+He will show us micro service approach with gRPC, a remote procedure call framework.
 
 ---
 
