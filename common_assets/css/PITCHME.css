@@ -12,3 +12,10 @@
   border: 0;
   box-shadow: none;
 }
+
+.background-chart {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: -5;
+}
