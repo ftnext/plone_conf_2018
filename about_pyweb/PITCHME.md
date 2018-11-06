@@ -89,7 +89,9 @@ Topics of AWS Lambda, a serverless service provided by AWS, will also appear.
 ---
 
 ### 12:30 - 13:10
-## <span class="title-font-size-adjustment">Building a REST API with Django and Django REST Framework</span>
+<div class="title-font-size-adjustment">
+## Building a REST API with Django and Django REST Framework
+</div>
 ## Hironori Sekine
 
 Note:
