@@ -19,3 +19,7 @@
   left: 0;
   z-index: -5;
 }
+
+.title-font-size-adjustment {
+  font-size: 2em;
+}
