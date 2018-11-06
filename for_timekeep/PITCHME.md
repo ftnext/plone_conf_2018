@@ -6,7 +6,7 @@
 
 ## 50% of time has passed
 
-<canvas data-chart="line">
+<canvas data-chart="pie">
 <!--
 {
   "data": {
