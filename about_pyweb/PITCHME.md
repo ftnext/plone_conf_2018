@@ -194,7 +194,9 @@ He'll show us how to make router much faster than ever.
 ---
 
 ### 16:10 - 16:50
+<div class="title-font-size-adjustment">
 ## Micro Service Architecture with Machine Learning Application
+</div>
 ## Masato Fujitake
 
 Note:
