@@ -23,7 +23,7 @@
 
 +++
 
-# 5 minutes remaining
+# 5 minutes <br>remaining
 
 <canvas data-chart="pie" class="background-chart">
 <!--
@@ -44,7 +44,7 @@
 
 +++
 
-# 1 minute remaining
+# 1 minute <br>remaining
 
 <canvas data-chart="pie" class="background-chart">
 <!--
