@@ -4,8 +4,6 @@
 
 # 10 minutes remaining
 
-## 50% of time has passed
-
 <canvas data-chart="pie" class="background-chart">
 <!--
 {
@@ -14,8 +12,7 @@
     "datasets": [
       {
         "data":[50,50],
-        "label":"My first dataset",
-        "backgroundColor":["rgba(20,220,220,.8)"]
+        "backgroundColor":["rgba(229,229,229,.6)","rgba(20,220,220,.6)"]
       }
     ]
   },
