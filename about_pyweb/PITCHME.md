@@ -89,7 +89,9 @@ Topics of AWS Lambda, a serverless service provided by AWS, will also appear.
 ---
 
 ### 12:30 - 13:10
+<div class="title-font-size-adjustment">
 ## Building a REST API with Django and Django REST Framework
+</div>
 ## Hironori Sekine
 
 Note:
@@ -192,7 +194,9 @@ He'll show us how to make router much faster than ever.
 ---
 
 ### 16:10 - 16:50
+<div class="title-font-size-adjustment">
 ## Micro Service Architecture with Machine Learning Application
+</div>
 ## Masato Fujitake
 
 Note:
